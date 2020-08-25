@@ -1,0 +1,24 @@
+{
+	"id": "82fa8bbf-2088-4c9c-81e9-a0f2082175c3",
+	"name": "Tomer/ 0523699996 / stg",
+	"values": [
+		{
+			"key": "Authorization",
+			"value": "APIKEY 92f3754f-ec9f-4dcf-8494-41003ca594bb",
+			"enabled": true
+		},
+		{
+			"key": "url",
+			"value": "https://stg-api.getpackage.com",
+			"enabled": true
+		},
+		{
+			"key": "id",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2020-07-29T07:36:47.253Z",
+	"_postman_exported_using": "Postman/7.28.0"
+}
